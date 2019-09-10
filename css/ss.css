@@ -1,0 +1,26 @@
+.ff{font-size: 60px;
+    padding-left: 27%;
+     color: rgb(2, 2, 2);
+    padding-bottom: 330px;}
+.container-table100 {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(images/ab.jpg);
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 33px 30px;}
+
+    .table{font-size: 30px;
+               color: rgb(12, 12, 12);
+            padding-bottom: 330px;background-color: rgba(224, 174, 174, 0.123);}
+
+            .home{padding-left: 45%;
+            color: turquoise;
+            font-size: 30px;
+        }
